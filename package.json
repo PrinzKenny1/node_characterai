@@ -26,11 +26,10 @@
     "url": "https://github.com/realcoloride/node_characterai/issues"
   },
   "dependencies": {
-    "mime": "^3.0.0",
     "jimp": "^0.22.8",
     "json-bigint": "^1.0.0",
     "node-fetch": "^3.3.0",
-    "puppeteer": "^19.7.5",
+    "puppeteer": "^15.5.0",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "uuid": "^9.0.0"
